@@ -1,6 +1,6 @@
 import math
 
-def sqrt_list(l):
+def sqrt_list(l: list) -> float:
     return round(math.sqrt(sum(l)), 2)
 
 print(sqrt_list([6,18,7,5]) == 6.0)

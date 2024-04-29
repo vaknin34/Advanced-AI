@@ -8,7 +8,6 @@ passed_with_examples=6
 failed_with_examples=0
 average_with_examples=1.0
 
-
 temperature=0.8
 passed_without_examples=6
 failed_without_examples=0
@@ -17,5 +16,4 @@ average_without_examples=1.0
 passed_with_examples=6
 failed_with_examples=0
 average_with_examples=1.0
-
 
